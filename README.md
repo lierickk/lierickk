@@ -1,14 +1,20 @@
 # 👋 Olá, eu sou Erick Li
 
-🚀 Estudante de Ciência da Computação 
-🇧🇷 Brasil
+## 👨‍💻 Sobre mim
 
-Atualmente estou focado em evoluir como desenvolvedor, criando sistemas escaláveis e aplicações com foco em performance, arquitetura e soluções reais de negócio.
-
-Tenho grande interesse em tecnologia, empreendedorismo e construção de produtos digitais.
+- Tenho 18 anos e estou iniciando minha graduação em **Ciência da Computação**, com conclusão prevista para **2029**.
+- Estudo na FIAP e estou em constante evolução, explorando frameworks, boas práticas de programação e novas tecnologias.
+- Tenho interesse em desenvolvimento de sistemas, SaaS, performance e arquitetura de software.
+- Também estou desenvolvendo projetos próprios, incluindo soluções voltadas para tecnologia e negócios.
+- Meu objetivo é crescer na área e contribuir positivamente no mundo da tecnologia, sempre dando meu melhor em cada desafio.
 
 ## 🌐 Onde me encontrar
-<p align="left"> <a href="https://github.com/lierickk"> <img src="https://img.shields.io/badge/GitHub-liErickk-181717?style=for-the-badge&logo=github" /> </a> <a href="https://www.instagram.com/lierickk_/"> <img src="https://img.shields.io/badge/Instagram-@lierickk_-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a> </p>
+<p align="left"> <a href="https://github.com/lierickk"> <img src="https://img.shields.io/badge/GitHub-liErickk-181717?style=for-the-badge&logo=github" /> </a> <a href="https://www.instagram.com/lierickk_/"> <img src="https://img.shields.io/badge/Instagram-@lierickk_-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a>
+<a href="mailto:lierickxy@gmail.com">
+    <img src="https://img.shields.io/badge/YouTube-O%20REI%20DO%20SITES-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/erick-yu-xiang-li/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</p>
 
 
 ## 🧠 O que eu faço
