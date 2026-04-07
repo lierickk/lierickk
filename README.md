@@ -10,9 +10,7 @@
 
 ## 🌐 Onde me encontrar
 <p align="left"> <a href="https://github.com/lierickk"> <img src="https://img.shields.io/badge/GitHub-liErickk-181717?style=for-the-badge&logo=github" /> </a> <a href="https://www.instagram.com/lierickk_/"> <img src="https://img.shields.io/badge/Instagram-@lierickk_-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a>
-<a href="mailto:lierickxy@gmail.com">
-    <img src="https://img.shields.io/badge/YouTube-O%20REI%20DO%20SITES-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
+<a href="mailto:lierickxy@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/erick-yu-xiang-li/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </p>
 
@@ -38,7 +36,7 @@
 ### Backend
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
-![C](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp)
+![C](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=cs)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
 
 ### DevOps & Tools
