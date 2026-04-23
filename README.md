@@ -4,7 +4,6 @@
 
 - Tenho 18 anos e estou iniciando minha graduação em **Ciência da Computação**, com conclusão prevista para **2029**.
 - Estudo na FIAP e estou em constante evolução, explorando frameworks, boas práticas de programação e novas tecnologias.
-- Tenho interesse em desenvolvimento de sistemas, SaaS, performance e arquitetura de software.
 - Também estou desenvolvendo projetos próprios, incluindo soluções voltadas para tecnologia e negócios.
 - Meu objetivo é crescer na área e contribuir positivamente no mundo da tecnologia, sempre dando meu melhor em cada desafio.
 
